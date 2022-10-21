@@ -34,4 +34,7 @@ public class PersonBeraksi{
     }
 }
 
+![output](https://user-images.githubusercontent.com/115930300/197236168-350b9e52-cac0-4ccc-a14c-8dd190e11604.png)
+
+
 
