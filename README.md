@@ -1,7 +1,6 @@
 # TugasOOP
 
 package BelajarJava.com;
-
 public class PersonBeraksi{
     public static void main(String[] args) {
         
