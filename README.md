@@ -1,5 +1,12 @@
 # TugasOOP
 
+
+##1.Membuat class bernama Person dengan data Nama, JenisKelamin, dan Umur
+##2.buat lagi class baru yang bernama PersonBeraksi untuk membuat objek yang datanya ada di class person
+##3.lalu membuat objek dengan nama anton dan riko dengan berisikan data yang ada di class person seperti data Nama, JEnisKelamin, dan Umur
+##4.lalu isilah objek anton dan riko dengan data baru
+##5.panggil nama objeknya
+
     package BelajarJava.com;
 
     public class Person{
