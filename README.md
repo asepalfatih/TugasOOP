@@ -1,6 +1,15 @@
 # TugasOOP
 
     package BelajarJava.com;
+
+    public class Person{
+        String Nama;
+        String JenisKelamin;
+        int Umur;
+    }
+
+
+    package BelajarJava.com;
     
     public class PersonBeraksi{
         public static void main(String[] args) {
